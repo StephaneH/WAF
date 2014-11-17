@@ -1,0 +1,13 @@
+{
+    "name": "default",
+    "author": "Wakanda",
+    "copyright": "GNU GPL v3, AGPL v3, Commercial",
+    "studio": {
+	    "label": "Default", 	
+        "mobile": "false"
+    },	
+    "version": "1.0.0", 
+    "loadDependencies": [
+        {"id": "themes/default/default.css", "path": "WAF"}
+    ]
+}
